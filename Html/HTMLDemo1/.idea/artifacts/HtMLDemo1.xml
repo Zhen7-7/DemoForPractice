@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="HtMLDemo1">
+    <output-path>$PROJECT_DIR$/out/artifacts/HtMLDemo1</output-path>
+    <root id="archive" name="unnamed.ear" />
+  </artifact>
+</component>
